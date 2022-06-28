@@ -1,0 +1,17 @@
+br\com\aenweb\portalstudiocorpoealma\Application.class
+br\com\aenweb\portalstudiocorpoealma\dto\TokenDTO$TokenDTOBuilder.class
+br\com\aenweb\portalstudiocorpoealma\model\PessoaModel.class
+br\com\aenweb\portalstudiocorpoealma\security\SecurityConfig.class
+br\com\aenweb\portalstudiocorpoealma\service\impl\CustomUserDetailsService.class
+br\com\aenweb\portalstudiocorpoealma\service\UsuarioService.class
+br\com\aenweb\portalstudiocorpoealma\repository\UsuarioRepository.class
+br\com\aenweb\portalstudiocorpoealma\dto\TokenDTO.class
+br\com\aenweb\portalstudiocorpoealma\service\impl\UsuarioServiceImpl.class
+br\com\aenweb\portalstudiocorpoealma\model\AgendaModel.class
+br\com\aenweb\portalstudiocorpoealma\controller\UsuarioController.class
+br\com\aenweb\portalstudiocorpoealma\model\RoleModel.class
+br\com\aenweb\portalstudiocorpoealma\model\UsuarioModel.class
+br\com\aenweb\portalstudiocorpoealma\security\JWTValidateFilter.class
+br\com\aenweb\portalstudiocorpoealma\security\UserPrincipal.class
+br\com\aenweb\portalstudiocorpoealma\security\JWTAuthenticationFilter.class
+br\com\aenweb\portalstudiocorpoealma\model\TelefoneModel.class
